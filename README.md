@@ -4,7 +4,7 @@
 
 **▶ [Download the video (1080p, 14 min, 409 MB)](https://github.com/Tascano/transfervideo/raw/main/india-to-vancouver-1080p.mp4)**
 
-**▶ [Download the vertical version for phones (9:16, 108 MB)](https://github.com/Tascano/transfervideo/raw/main/india-to-vancouver-vertical.mp4)**
+**▶ [Download a smaller copy (same full video, 1080p, 150 MB)](https://github.com/Tascano/transfervideo/raw/main/india-to-vancouver-1080p-smaller.mp4)**
 
 On a phone, the file saves to Downloads (Files on iPhone) and plays in any video player.
 English captions: [captions.srt](captions.srt).
